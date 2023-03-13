@@ -45,7 +45,7 @@ class _CartoonScreenState extends State<CartoonScreen> {
 
   void _loadInterstitialAd() {
     InterstitialAd.load(
-      adUnitId: "ca-app-pub-4280527336340292/5420962070",
+      adUnitId: "ca-app-pub-4280527336340292/2691785907",
       request: const AdRequest(),
       adLoadCallback: InterstitialAdLoadCallback(
         onAdLoaded: (ad) {
