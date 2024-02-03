@@ -1,6 +1,6 @@
 # Cartoons
 
-A new Flutter project.
+a Cartoon Type youtube app with bunch of cartoon categories to choose from, watch and enjoy !
 
 ## Getting Started
 
