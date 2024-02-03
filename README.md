@@ -1,6 +1,6 @@
 # Cartoons
 
-a Cartoon Type youtube app with bunch of cartoon categories to choose from, watch and enjoy !
+app with a bunch of cartoon categories to choose from, watch, and enjoy!
 
 ## Getting Started
 
